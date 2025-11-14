@@ -1,2 +1,3 @@
 # js-tutorial
-code repo for learning java script 
+code repo for learning java script
+Author - Shaik Waheed 
